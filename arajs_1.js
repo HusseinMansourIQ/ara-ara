@@ -1,5 +1,4 @@
-var kidbuy = "banana"
-console.log(kidbuy != "ice cream")
-
-kidbuy = "ice cream"
-console.log(kidbuy != "ice cream")
+var marck = 60
+var pass
+pass = marck > 50? true:false
+console.log(pass)
